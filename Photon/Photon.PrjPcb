@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IGDXQRIE
 
 [Document3]
-DocumentPath=Probe.SchDoc
+DocumentPath=Photon.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
