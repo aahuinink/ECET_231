@@ -1,0 +1,4 @@
+Class	Document	Source	Message	Time	Date	No.
+
+[Warning]	Photon.SchDoc	Compiler	Net R\E\S\E\T\ has no driving source (Pin C1-1, Pin R1-1, Pin S1-2, Pin U1-23)	1:12:03 PM	2024-02-17	1
+[Info]	Photon.PrjPcb	Compiler	Compile successful, no errors found.	1:12:03 PM	2024-02-17	2
