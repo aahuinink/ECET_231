@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\C0520296\Documents\ECET_231\Photon\Photon.PcbDoc
 Date     : 2024-02-17
-Time     : 12:56:38 PM
+Time     : 1:04:31 PM
 
 Processing Rule : Clearance Constraint (Gap=15mil) (All),(All)
 Rule Violations :0
@@ -15,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=30mil) (Preferred=15mil) (All)
+Processing Rule : Width Constraint (Min=15mil) (Max=30mil) (Preferred=15mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
