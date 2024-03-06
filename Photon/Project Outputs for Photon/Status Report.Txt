@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
+Output: Protel
+Type  : ProtelNetlist
 From  : Project [Photon.PrjPcb]
-   Generated File[Photon.TXT]
-   Generated File[Photon.LDP]
-   Generated File[Photon.DRR]
+   Generated File[Autoroute_prx.NET]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 1:15:57 PM On 2024-02-17
+Finished Output Generation At 3:06:55 PM On 2024-03-06
