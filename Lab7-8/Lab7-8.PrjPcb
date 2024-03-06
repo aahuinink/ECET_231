@@ -188,6 +188,10 @@ DocumentUniqueId=TRCSCEGY
 DocumentPath=Project Outputs for Lab7-8\Lab7-8.NET
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=MessageListReport.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

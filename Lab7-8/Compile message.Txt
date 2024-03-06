@@ -1,0 +1,76 @@
+Class	Document	Source	Message	Time	Date	No.
+
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	+5A contains Input Pin and Unspecified Sheet Entry objects (Pin U1-2, Sheet Entry CHANNEL1-+5A(Passive), Sheet Entry CHANNEL2-+5A(Passive), Sheet Entry CHANNEL3-+5A(Passive), Sheet Entry CHANNEL4-+5A(Passive)).	3:22:00 PM	2024-03-06	1
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	+5A contains Output Pin and Power Pin objects (Pin U2-3, Pin U3-2, Pin U4-7, Pin U5-7, Pin U6-7, Pin U7-7, Pin U8-16, Pin U9-16, Pin U10-16, Pin U11-16).	3:22:00 PM	2024-03-06	2
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	+5A contains Output Pin and Unspecified Sheet Entry objects (Pin U2-3, Sheet Entry CHANNEL1-+5A(Passive), Sheet Entry CHANNEL2-+5A(Passive), Sheet Entry CHANNEL3-+5A(Passive), Sheet Entry CHANNEL4-+5A(Passive)).	3:22:00 PM	2024-03-06	3
+[Warning]	Lab7-8_CH1.SchDoc	Compiler	DGND contains Input Pin and Unspecified Port objects (Pin U8-15, Port DGND).	3:22:00 PM	2024-03-06	4
+[Warning]	Lab7-8_CH2.SchDoc	Compiler	DGND contains Input Pin and Unspecified Port objects (Pin U9-15, Port DGND).	3:22:00 PM	2024-03-06	5
+[Warning]	Lab7-8_CH3.SchDoc	Compiler	DGND contains Input Pin and Unspecified Port objects (Pin U10-15, Port DGND).	3:22:00 PM	2024-03-06	6
+[Warning]	Lab7-8_CH4.SchDoc	Compiler	DGND contains Input Pin and Unspecified Port objects (Pin U11-15, Port DGND).	3:22:00 PM	2024-03-06	7
+[Warning]	Lab7-8_CH1.SchDoc	Compiler	Global Power-Object +5A at 10100mil,7300mil has been reduced to local level by presence of port at 12242.593mil,7100mil	3:22:00 PM	2024-03-06	8
+[Warning]	Lab7-8_CH4.SchDoc	Compiler	Global Power-Object +5A at 10400mil,7200mil has been reduced to local level by presence of port at 12542.593mil,7000mil	3:22:00 PM	2024-03-06	9
+[Warning]	Lab7-8_CH2.SchDoc	Compiler	Global Power-Object +5A at 10400mil,7200mil has been reduced to local level by presence of port at 12542.593mil,7000mil	3:22:00 PM	2024-03-06	10
+[Warning]	Lab7-8_CH3.SchDoc	Compiler	Global Power-Object +5A at 10600mil,7300mil has been reduced to local level by presence of port at 12742.593mil,7100mil	3:22:00 PM	2024-03-06	11
+[Warning]	Lab7-8_CH1.SchDoc	Compiler	Global Power-Object +5D at 10200mil,6800mil has been reduced to local level by presence of port at 12242.593mil,6700mil	3:22:00 PM	2024-03-06	12
+[Warning]	Lab7-8_CH4.SchDoc	Compiler	Global Power-Object +5D at 10500mil,6700mil has been reduced to local level by presence of port at 12542.593mil,6600mil	3:22:00 PM	2024-03-06	13
+[Warning]	Lab7-8_CH2.SchDoc	Compiler	Global Power-Object +5D at 10500mil,6700mil has been reduced to local level by presence of port at 12542.593mil,6600mil	3:22:00 PM	2024-03-06	14
+[Warning]	Lab7-8_CH3.SchDoc	Compiler	Global Power-Object +5D at 10700mil,6800mil has been reduced to local level by presence of port at 12742.593mil,6700mil	3:22:00 PM	2024-03-06	15
+[Warning]	Lab7-8_CH1.SchDoc	Compiler	Global Power-Object AGND at 2300mil,3600mil has been reduced to local level by presence of port at 1100mil,3600mil	3:22:00 PM	2024-03-06	16
+[Warning]	Lab7-8_CH2.SchDoc	Compiler	Global Power-Object AGND at 2600mil,3500mil has been reduced to local level by presence of port at 1400mil,3500mil	3:22:00 PM	2024-03-06	17
+[Warning]	Lab7-8_CH4.SchDoc	Compiler	Global Power-Object AGND at 2600mil,3500mil has been reduced to local level by presence of port at 1400mil,3500mil	3:22:00 PM	2024-03-06	18
+[Warning]	Lab7-8_CH3.SchDoc	Compiler	Global Power-Object AGND at 2800mil,3600mil has been reduced to local level by presence of port at 1600mil,3600mil	3:22:00 PM	2024-03-06	19
+[Warning]	Lab7-8_CH1.SchDoc	Compiler	Global Power-Object DGND at 10500mil,4200mil has been reduced to local level by presence of port at 12372.663mil,4300mil	3:22:00 PM	2024-03-06	20
+[Warning]	Lab7-8_CH2.SchDoc	Compiler	Global Power-Object DGND at 10800mil,4100mil has been reduced to local level by presence of port at 12672.663mil,4200mil	3:22:00 PM	2024-03-06	21
+[Warning]	Lab7-8_CH4.SchDoc	Compiler	Global Power-Object DGND at 10800mil,4100mil has been reduced to local level by presence of port at 12672.663mil,4200mil	3:22:00 PM	2024-03-06	22
+[Warning]	Lab7-8_CH3.SchDoc	Compiler	Global Power-Object DGND at 11000mil,4200mil has been reduced to local level by presence of port at 12872.663mil,4300mil	3:22:00 PM	2024-03-06	23
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net 2.5VREF has no driving source (Pin C1-1, Pin C4-1, Pin JP3-3, Pin JP4-3, Pin JP5-3, Pin JP6-3, Pin JP7-3, Pin JP8-3, Pin JP9-3, Pin JP10-4, Pin U1-6, Pin U8-18, Pin U9-18, Pin U10-18, Pin U11-18)	3:22:00 PM	2024-03-06	24
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net !CS0 has no driving source (Pin J4-19, Pin U8-5)	3:22:00 PM	2024-03-06	25
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net !CS1 has no driving source (Pin J4-17, Pin U9-5)	3:22:00 PM	2024-03-06	26
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net !CS2 has no driving source (Pin J4-15, Pin U10-5)	3:22:00 PM	2024-03-06	27
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net !CS3 has no driving source (Pin J4-13, Pin U11-5)	3:22:00 PM	2024-03-06	28
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net !DSYNC has no driving source (Pin J4-11, Pin U8-6, Pin U9-6, Pin U10-6, Pin U11-6)	3:22:00 PM	2024-03-06	29
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net A1 has no driving source (Pin C10-1, Pin D2-K, Pin J1-1, Pin R15-1, Pin R17-2, Pin Rs1-2, Pin U4-2)	3:22:00 PM	2024-03-06	30
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net A2 has no driving source (Pin C17-1, Pin D4-K, Pin J1-6, Pin R19-1, Pin R21-2, Pin Rs2-2, Pin U5-2)	3:22:00 PM	2024-03-06	31
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net A3 has no driving source (Pin C23-1, Pin D6-K, Pin J1-2, Pin R23-1, Pin R25-2, Pin Rs3-2, Pin U6-2)	3:22:00 PM	2024-03-06	32
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net A4 has no driving source (Pin C31-1, Pin D8-K, Pin J2-4, Pin JP15-1, Pin R27-1, Pin R29-2, Pin Rs4-2, Pin U7-2)	3:22:00 PM	2024-03-06	33
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net AUX_CLK has no driving source (Pin J4-31, Pin U8-7, Pin U9-7, Pin U10-7, Pin U11-7)	3:22:00 PM	2024-03-06	34
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net B4 has no driving source (Pin C32-1, Pin D7-K, Pin J2-2, Pin R26-1, Pin R28-2, Pin U7-3)	3:22:00 PM	2024-03-06	35
+[Warning]	Lab7-8_CH1.SchDoc	Compiler	Net NetC7_1 has no driving source (Pin C7-1, Pin R6-2, Pin U8-1)	3:22:00 PM	2024-03-06	36
+[Warning]	Lab7-8_CH1.SchDoc	Compiler	Net NetC8_1 has no driving source (Pin C8-1, Pin JP3-2, Pin U4-5, Pin U8-2)	3:22:00 PM	2024-03-06	37
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net NetC11_1 has no driving source (Pin C11-1, Pin D1-K, Pin JP11-1, Pin R14-1, Pin R16-2, Pin U4-3)	3:22:00 PM	2024-03-06	38
+[Warning]	Lab7-8_CH2.SchDoc	Compiler	Net NetC14_1 has no driving source (Pin C14-1, Pin R8-2, Pin U9-1)	3:22:00 PM	2024-03-06	39
+[Warning]	Lab7-8_CH2.SchDoc	Compiler	Net NetC15_1 has no driving source (Pin C15-1, Pin JP5-2, Pin U5-5, Pin U9-2)	3:22:00 PM	2024-03-06	40
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net NetC18_1 has no driving source (Pin C18-1, Pin D3-K, Pin JP12-1, Pin R18-1, Pin R20-2, Pin U5-3)	3:22:00 PM	2024-03-06	41
+[Warning]	Lab7-8_CH3.SchDoc	Compiler	Net NetC21_1 has no driving source (Pin C21-1, Pin R10-2, Pin U10-1)	3:22:00 PM	2024-03-06	42
+[Warning]	Lab7-8_CH3.SchDoc	Compiler	Net NetC22_1 has no driving source (Pin C22-1, Pin JP7-2, Pin U6-5, Pin U10-2)	3:22:00 PM	2024-03-06	43
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net NetC24_1 has no driving source (Pin C24-1, Pin D5-K, Pin JP12-2, Pin R22-1, Pin R24-2, Pin U6-3)	3:22:00 PM	2024-03-06	44
+[Warning]	Lab7-8_CH4.SchDoc	Compiler	Net NetC28_1 has no driving source (Pin C28-1, Pin R12-2, Pin U11-1)	3:22:00 PM	2024-03-06	45
+[Warning]	Lab7-8_CH4.SchDoc	Compiler	Net NetC29_1 has no driving source (Pin C29-1, Pin JP9-2, Pin U7-5, Pin U11-2)	3:22:00 PM	2024-03-06	46
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net NetR1_1 has no driving source (Pin R1-1, Pin U2-5)	3:22:00 PM	2024-03-06	47
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net NetR3_2 has no driving source (Pin R3-2, Pin U3-1)	3:22:00 PM	2024-03-06	48
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net NetR4_2 has no driving source (Pin R4-2, Pin R5-1, Pin U3-4)	3:22:00 PM	2024-03-06	49
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net NetU2_13 has no driving source (Pin U2-13, Pin U2-14)	3:22:00 PM	2024-03-06	50
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Net VBATT has no driving source (Pin C3-1, Pin J4-4, Pin J5-1, Pin R1-2, Pin U2-15)	3:22:00 PM	2024-03-06	51
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Nets Wire SCK_A has multiple names (Net Label SCK_A, Net Label SCK_D)	3:22:00 PM	2024-03-06	52
+[Warning]	Lab7-8_TOP.SchDoc	Compiler	Off grid Net Label TEMP_CLK at 10782.672mil,5100mil	3:22:00 PM	2024-03-06	53
+[Warning]	Lab7-8_CH1.SchDoc	Compiler	Off grid Port 2.5VREF at 12360.009mil,3600mil	3:22:00 PM	2024-03-06	54
+[Warning]	Lab7-8_CH2.SchDoc	Compiler	Off grid Port 2.5VREF at 12660.009mil,3500mil	3:22:00 PM	2024-03-06	55
+[Warning]	Lab7-8_CH4.SchDoc	Compiler	Off grid Port 2.5VREF at 12660.009mil,3500mil	3:22:00 PM	2024-03-06	56
+[Warning]	Lab7-8_CH3.SchDoc	Compiler	Off grid Port 2.5VREF at 12860.009mil,3600mil	3:22:00 PM	2024-03-06	57
+[Warning]	Lab7-8_CH1.SchDoc	Compiler	Off grid Port +5A at 12242.593mil,7100mil	3:22:00 PM	2024-03-06	58
+[Warning]	Lab7-8_CH2.SchDoc	Compiler	Off grid Port +5A at 12542.593mil,7000mil	3:22:00 PM	2024-03-06	59
+[Warning]	Lab7-8_CH4.SchDoc	Compiler	Off grid Port +5A at 12542.593mil,7000mil	3:22:00 PM	2024-03-06	60
+[Warning]	Lab7-8_CH3.SchDoc	Compiler	Off grid Port +5A at 12742.593mil,7100mil	3:22:00 PM	2024-03-06	61
+[Warning]	Lab7-8_CH1.SchDoc	Compiler	Off grid Port +5D at 12242.593mil,6700mil	3:22:00 PM	2024-03-06	62
+[Warning]	Lab7-8_CH2.SchDoc	Compiler	Off grid Port +5D at 12542.593mil,6600mil	3:22:00 PM	2024-03-06	63
+[Warning]	Lab7-8_CH4.SchDoc	Compiler	Off grid Port +5D at 12542.593mil,6600mil	3:22:00 PM	2024-03-06	64
+[Warning]	Lab7-8_CH3.SchDoc	Compiler	Off grid Port +5D at 12742.593mil,6700mil	3:22:00 PM	2024-03-06	65
+[Warning]	Lab7-8_CH1.SchDoc	Compiler	Off grid Port DGND at 12372.663mil,4300mil	3:22:00 PM	2024-03-06	66
+[Warning]	Lab7-8_CH4.SchDoc	Compiler	Off grid Port DGND at 12672.663mil,4200mil	3:22:00 PM	2024-03-06	67
+[Warning]	Lab7-8_CH2.SchDoc	Compiler	Off grid Port DGND at 12672.663mil,4200mil	3:22:00 PM	2024-03-06	68
+[Warning]	Lab7-8_CH3.SchDoc	Compiler	Off grid Port DGND at 12872.663mil,4300mil	3:22:00 PM	2024-03-06	69
+[Warning]	Lab7-8_CH1.SchDoc	Compiler	Off grid Port SHUNT_EN at 12434.744mil,2700mil	3:22:00 PM	2024-03-06	70
+[Warning]	Lab7-8_CH2.SchDoc	Compiler	Off grid Port SHUNT_EN at 12734.744mil,2600mil	3:22:00 PM	2024-03-06	71
+[Warning]	Lab7-8_CH4.SchDoc	Compiler	Off grid Port SHUNT_EN at 12734.744mil,2600mil	3:22:00 PM	2024-03-06	72
+[Warning]	Lab7-8_CH3.SchDoc	Compiler	Off grid Port SHUNT_EN at 12934.744mil,2700mil	3:22:00 PM	2024-03-06	73
+[Info]	Lab7-8.PrjPcb	Compiler	Compile successful, no errors found.	3:22:00 PM	2024-03-06	74
