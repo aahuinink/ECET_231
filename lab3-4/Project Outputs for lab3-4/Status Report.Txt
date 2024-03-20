@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [lab3-4.PrjPcb]
+   Generated File[Lab3-4.GTO]
+   Generated File[Lab3-4.GTP]
+   Generated File[Lab3-4.GTS]
+   Generated File[Lab3-4.GTL]
+   Generated File[Lab3-4.GBL]
+   Generated File[Lab3-4.GBS]
+   Generated File[Lab3-4.GBP]
+   Generated File[Lab3-4.GBO]
+   Generated File[Lab3-4.GKO]
+   Generated File[Lab3-4.GM]
+   Generated File[Lab3-4.RUL]
+   Generated File[Lab3-4.EXTREP]
+   Generated File[Lab3-4.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 8:43:52 AM On 2024-02-04
