@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C2 Old Footprint=RAD0.2 New Footprint=RAD0.2-POL
+Change Component Footprint: Designator=C3 Old Footprint=RAD0.2 New Footprint=RAD0.2-POL
+Change Physical Footprint: Designator=C1 Old Footprint=RAD0.2-POL New Footprint=RAD0.2-POL
+Change Physical Footprint: Designator=R1 Old Footprint=Axial0.5 New Footprint=axial0.5
+Change Physical Footprint: Designator=R2 Old Footprint=Axial0.5 New Footprint=axial0.5
+Change Physical Footprint: Designator=R3 Old Footprint=Axial0.5 New Footprint=axial0.5
+Change Physical Footprint: Designator=R4 Old Footprint=Axial0.5 New Footprint=axial0.5
+Change Physical Footprint: Designator=R5 Old Footprint=Axial0.5 New Footprint=axial0.5

@@ -1,0 +1,12 @@
+Change Physical Footprint: Designator=C1 Old Footprint=RAD0.2-POL New Footprint=RAD0.2-POL
+Change Physical Footprint: Designator=C2 Old Footprint=RAD0.2 New Footprint=RAD0.2
+Change Physical Footprint: Designator=C3 Old Footprint=RAD0.2 New Footprint=RAD0.2
+Change Physical Footprint: Designator=P1 Old Footprint=PROBE New Footprint=PROBE
+Change Physical Footprint: Designator=Q1 Old Footprint=TO-92A New Footprint=TO-92A
+Change Physical Footprint: Designator=Q2 Old Footprint=TO-92A New Footprint=TO-92A
+Change Physical Footprint: Designator=R1 Old Footprint=axial0.5 New Footprint=axial0.5
+Change Physical Footprint: Designator=R2 Old Footprint=axial0.5 New Footprint=axial0.5
+Change Physical Footprint: Designator=R3 Old Footprint=axial0.5 New Footprint=axial0.5
+Change Physical Footprint: Designator=R4 Old Footprint=axial0.5 New Footprint=axial0.5
+Change Physical Footprint: Designator=R5 Old Footprint=axial0.5 New Footprint=axial0.5
+Change Physical Footprint: Designator=U1 Old Footprint=DIP14 New Footprint=DIP14
