@@ -1,0 +1,39 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\C0520296\ECET_231\Lab7-8\Lab9-10.PcbDoc
+Date     : 2024-04-03
+Time     : 4:51:54 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net A2 Between Pad Rs2-2(1731mil,1432mil) on Multi-Layer And Pad J1-6(3000mil,525mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +5D Between Pad J3-1(1000mil,623.426mil) on Multi-Layer And Via (2350mil,988.614mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad J3-3(1000mil,426.576mil) on Multi-Layer And Via (2200mil,859.796mil) from Top Layer to Bottom Layer 
+Rule Violations :3
+
+Processing Rule : Width Constraint (Min=20mil) (Max=40mil) (Preferred=20mil) (InNetClass('Analog'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=40mil) (Max=40mil) (Preferred=40mil) (InNetClass('Power'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=40mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (InNetClass('Digital'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=20mil) (Max=40mil) (Preferred=40mil) (InNetClass('2.5V_REF'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 3
+Waived Violations : 0
+Time Elapsed        : 00:00:01

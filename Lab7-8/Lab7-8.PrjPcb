@@ -219,10 +219,14 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Lab7-8\Lab7-8.NET
+DocumentPath=Project Outputs for Lab7-8\Design Rule Check - Lab9-10.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for Lab7-8\Lab7-8.NET
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=MessageListReport.html
 DItemRevisionGUID=
 
